@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-! [Walkthrough] (TodoWalkThrough.gif).
+<img src='https://github.com/angiecolleen8/ToDoList/blob/master/TodoWalkThrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
